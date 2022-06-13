@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1654821388 source:c:\users\gabri\desktop\gabriel 2022\fatec 2022\linguagem de programação\trabalho final\projetofinal_lp\projetofinal_lp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+	<locale.h>
+
+1654821083 c:\users\gabri\desktop\gabriel 2022\fatec 2022\linguagem de programação\trabalho final\projetofinal_lp\projetofinal_lp\produto.h
+
+1654822338 source:c:\users\gabri\desktop\gabriel 2022\fatec 2022\linguagem de programação\trabalho final\projetofinal_lp\projetofinal_lp\produto.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+
